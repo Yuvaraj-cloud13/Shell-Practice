@@ -10,6 +10,6 @@ echo "sum is: $SUM"
 #Array
 MOVIES=("RRR" "Varanasi" "Pushpa")
 echo "Movies are: ${MOVIES[@]}"
-echo "Movies are: ${MOVIES[0]}"
-echo "Movies are: ${MOVIES[1]}"
-echo "Movies are: ${MOVIES[2]}"
+echo "First movie is: ${MOVIES[0]}"
+echo "Second movie is: ${MOVIES[1]}"
+echo "Thrid movie is: ${MOVIES[2]}"
