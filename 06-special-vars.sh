@@ -10,3 +10,4 @@ echo "Who is running this: $USER"
 echo "which directory: $pwd"
 echo "Home directory: $HOME"
 echo "PID of the current script: $$"
+sleep 5 &
