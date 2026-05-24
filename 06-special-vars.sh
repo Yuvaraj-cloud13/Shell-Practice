@@ -15,3 +15,4 @@ echo "PID of the background command running just now: $!"
 wait $!
 echo "Line number: $LINENO"
 echo "Scipt executed in $SECONDS seconds"
+echo "Random number: $RANDOM"
